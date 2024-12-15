@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/jackharro/catppuccin-sameboy?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/jackharro/catppuccin-sameboy/issues"><img src="https://img.shields.io/github/issues/catppuccin/template?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/jackharro/catppuccin-sameboy/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/jackharro/catppuccin-sameboy/stargazers"><img src="https://img.shields.io/github/stars/jackharro/catppuccin-sameboy?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/jackharro/catppuccin-sameboy/issues"><img src="https://img.shields.io/github/issues/jackharro/catppuccin-sameboy?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/jackharro/catppuccin-sameboy/contributors"><img src="https://img.shields.io/github/contributors/jackharro/catppuccin-sameboy?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
